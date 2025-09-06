@@ -13,4 +13,8 @@ Añadidas diferentes cabeceras en markdown
 var miVariable = "Hola mundo!";
 ```
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
